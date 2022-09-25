@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h2 align="left">Hi 👋! My name is Mohd Naeem Ghadai and I'm Front Engineer, from Mumbai India</h2>
 
 ###
