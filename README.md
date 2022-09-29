@@ -7,11 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/ghadainaeem" target="blank"><img src="https://img.shields.io/twitter/follow/ghadainaeem?logo=twitter&style=for-the-badge" alt="ghadainaeem" /></a> </p>
 
-- 🔭 I’m currently working on **Website For Dairy Store**
+- 🔭 I’m currently working on **a website For Dairy Store**
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React, NodeJS, Express, MongoDB, Git**
 
 - 👯 I’m looking to collaborate on **Open Source**
+
+- 🤝 I’m looking for help with **NodeJs, Express, MongoDB**
 
 - 👨‍💻 All of my projects are available at [naeemghadai.github.io](naeemghadai.github.io)
 
@@ -30,6 +32,7 @@
 <a href="https://fb.com/naeem.ghadai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naeem.ghadai" height="30" width="40" /></a>
 <a href="https://instagram.com/naeem_007_14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naeem_007_14" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/naeemghadai007_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="naeemghadai007_1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/user5511g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user5511g" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@mohdnaeemghadai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mohdnaeemghadai" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/naeemghadai007com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="naeemghadai007com" height="30" width="40" /></a>
 </p>
