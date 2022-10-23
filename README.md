@@ -30,6 +30,10 @@
 <a href="https://nrestaurent.netlify.app" target="_blank">
 <img width="400" src="https://user-images.githubusercontent.com/51822103/196030809-59e9c375-e6ea-427d-9fee-0d4b7cff16c5.PNG"/>
 </a>
+&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp;
+<a href="https://shareeazy-production.up.railway.app" target="_blank">
+<img width="400" src="https://user-images.githubusercontent.com/51822103/197389738-e5d85842-a9c4-465e-9f88-5b31ca1023be.PNG"/>
+</a>
 
 
 ## Coding Time
