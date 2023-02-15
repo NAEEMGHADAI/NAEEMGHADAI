@@ -5,7 +5,7 @@
 <a href="https://twitter.com/ghadainaeem" target="blank"><img src="https://img.shields.io/twitter/follow/ghadainaeem?logo=twitter&style=for-the-badge" alt="ghadainaeem" height="20"/></a>
 
 
-- 🔭 I’m currently working on **a website For Dairy Store**
+- 🔭 I’m currently working on **a website For Namazy App**
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React, NodeJS, Express, MongoDB, Git**
 
