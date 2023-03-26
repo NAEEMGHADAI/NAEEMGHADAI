@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a website For Namazy App**
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, React, NodeJS, Express, MongoDB, Git**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, Typescript, React, Vue.js, NodeJS, Express, MongoDB, Git**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **ghadai.naeem@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1mYsvkrhlDWu8QS3alpz0T2OTgXa-TqY1?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qzBUNK8DGjj9I3yg324IFzCcWQI50N43/view?usp=share_link)
 
 ## My Projects
 
