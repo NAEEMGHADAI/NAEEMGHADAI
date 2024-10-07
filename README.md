@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **ghadai.naeem@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qzBUNK8DGjj9I3yg324IFzCcWQI50N43/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1B046hJZH4n2zPEcNAVlQKoOph32CfRZk/view?usp=sharing)
 
 ## My Projects
 
