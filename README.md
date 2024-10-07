@@ -5,13 +5,13 @@
 <a href="https://twitter.com/ghadainaeem" target="blank"><img src="https://img.shields.io/twitter/follow/ghadainaeem?logo=twitter&style=for-the-badge" alt="ghadainaeem" height="20"/></a>
 
 
-- 🔭 I’m currently working on **a website For Namazy App**
+- 🔭 I’m currently working in **Codon Software Private Limited**
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Typescript, React, Vue.js, NodeJS, Express, MongoDB, Git**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, Typescript, React, React Native, Vue.js, Next.js, NodeJS, Express, MongoDB, Git**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 🤝 I’m looking for help with **NodeJs, Express, MongoDB**
+- 🤝 I’m looking for help with **Next.js, NodeJs, Express, MongoDB**
 
 - 👨‍💻 All of my projects are available at [naeemghadai.github.io](naeemghadai.github.io)
 
@@ -47,12 +47,12 @@
 ## Connect with me
 
 <p align="left">
-<a href="https://codepen.io/naeemghadai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="naeemghadai" height="30" width="40" /></a>
-<a href="https://twitter.com/ghadainaeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ghadainaeem" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/naeem-ghadai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naeem-ghadai" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20110418/mohd-naeem-ghadai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20110418/mohd-naeem-ghadai" height="30" width="40" /></a>
-<a href="https://fb.com/naeem.ghadai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naeem.ghadai" height="30" width="40" /></a>
+<a href="https://twitter.com/ghadainaeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ghadainaeem" height="30" width="40" /></a>
 <a href="https://instagram.com/naeem_007_14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naeem_007_14" height="30" width="40" /></a>
+<a href="https://fb.com/naeem.ghadai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naeem.ghadai" height="30" width="40" /></a>
+<a href="https://codepen.io/naeemghadai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="naeemghadai" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20110418/mohd-naeem-ghadai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20110418/mohd-naeem-ghadai" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/naeemghadai007_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="naeemghadai007_1" height="30" width="40" /></a>
 <a href="https://leetcode.com/naeemghadai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user5511g" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@mohdnaeemghadai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mohdnaeemghadai" height="30" width="40" /></a>
@@ -94,7 +94,7 @@
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 
 <h4>Tools:</h4>
-<p align="left">      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="left">      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/40/adobe-xd--v1.png" alt="xd" width="40" height="40"/> </a> </p>
 
 ## Github Stats
 <a><img height="140" width="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=naeemghadai&show_icons=true&locale=en&layout=compact" alt="naeemghadai" /></a>
