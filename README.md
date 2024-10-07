@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [naeemghadai.github.io](naeemghadai.github.io)
 
-- 💬 Ask me about **JavaScript, React**
+- 💬 Ask me about **JavaScript, React, React Native**
 
 - 📫 How to reach me **ghadai.naeem@gmail.com**
 
