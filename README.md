@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Next.js, NodeJs, Express, MongoDB**
 
-- 👨‍💻 All of my projects are available at [naeemghadai.github.io](naeemghadai.github.io)
+- 👨‍💻 All of my projects are available at [naeemghadai.github.io](https://naeemghadai.github.io/?utm_source=github&utm_medium=readme)
 
 - 💬 Ask me about **JavaScript, React, React Native**
 
